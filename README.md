@@ -1,4 +1,8 @@
 # Selenium-Framework
+<html>
+ <head>
+ </head>
+ <body>
 -------------------------------------Run ----------------------------------------
 pytest -v -s --alluredir =  .\Tests\EndtoEndTest.py
 pytest .\EndtoEndTest.py
@@ -29,4 +33,6 @@ Step :- Use Text
 
 step :- Use Attributes
 //div//a[@class='top']
+ </body>
+ </html>
 
