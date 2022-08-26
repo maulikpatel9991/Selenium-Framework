@@ -3,9 +3,9 @@
  <head>
  </head>
  <body>
-<p>-------------------------------------Run ----------------------------------------
-pytest -v -s --alluredir =  .\Tests\EndtoEndTest.py
-pytest .\EndtoEndTest.py
+  <p>-------------------------------------Run ----------------------------------------</p>
+  <p>pytest -v -s --alluredir =  .\Tests\EndtoEndTest.py</p>
+  <p>pytest .\EndtoEndTest.py</p>
 
  -------------------------------Allure Report Run----------------------------
  Step : Open Cmd
