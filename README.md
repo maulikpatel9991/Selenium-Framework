@@ -7,33 +7,33 @@
   <p>pytest -v -s --alluredir =  .\Tests\EndtoEndTest.py</p>
   <p>pytest .\EndtoEndTest.py</p>
 
- -------------------------------Allure Report Run----------------------------
- Step : Open Cmd
- allure serve C:\Users\Lenovo\PycharmProjects\Calidad\=
+  <p>-------------------------------Allure Report Run----------------------------</p>
+  <p>Step : Open Cmd</p>
+  <p>allure serve C:\Users\Lenovo\PycharmProjects\Calidad\=</p>
 
--------------------------------------Jenkins ------------------------
-Step 1: - Download File
-https://www.jenkins.io/download/
-0f67901625fe48c886fd4d39af0c4f0b
+<p>-------------------------------------Jenkins ------------------------</p>
+<p>Step 1: - Download File</p>
+<p>https://www.jenkins.io/download/</p>
+<p>0f67901625fe48c886fd4d39af0c4f0b</p>
 
-Step 2: - Open Cmd Run Command
-java -jar C:\Users\Lenovo\Downloads\jenkins.war
+<p>Step 2: - Open Cmd Run Command</p>
+<p>java -jar C:\Users\Lenovo\Downloads\jenkins.war</p>
 
-Step 3: OPen Chrome
-http://localhost:8080
-Login
+<p>Step 3: OPen Chrome</p>
+<p>http://localhost:8080</p>
+<p>Login</p>
 
-Step 4: Add Windows Batch Command
-call ./venv/Scripts/activate.bat
-pytest -v -s --alluredir=reports Tests/EndtoEndTest.py
+<p>Step 4: Add Windows Batch Command</p>
+<p>call ./venv/Scripts/activate.bat</p>
+<p>pytest -v -s --alluredir=reports Tests/EndtoEndTest.py</p>
 
------------------------------------Make Xpath----------------------------
-Step :- Use Text
-//div//a//span[contains(text(),'Home')]
+<p>-----------------------------------Make Xpath----------------------------</p>
+<p>Step :- Use Text</p>
+<p>//div//a//span[contains(text(),'Home')]</p>
 
-step :- Use Attributes
-//div//a[@class='top']
-  </p>
+<p>step :- Use Attributes</p>
+<p>//div//a[@class='top']</p>
+ 
  </body>
  </html>
 
